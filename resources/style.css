@@ -80,6 +80,11 @@ body {
     margin-bottom: 1.5rem;
 }
 
+p {
+    min-width: 200px;
+    min-height: 200px;
+}
+
 .post .image-container {
     width: 100%;
 }
@@ -97,3 +102,11 @@ body {
 
 /* FOOTER */
 
+footer {
+    color: #999999;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.125rem;
+    text-align: center;
+    border-top: 1px solid #999999;
+    padding: 4rem 0;
+}
