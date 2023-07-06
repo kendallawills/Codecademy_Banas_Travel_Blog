@@ -1,0 +1,43 @@
+/* UNIVERSAL STYLES */
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: white;
+}
+
+/*
+.image-container {
+
+}
+
+.image-container img {
+
+}
+*/
+
+/* BANNER */
+
+#banner {
+    height: 46rem;
+    background-image: url('images/beyond+pyramids.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#banner h1 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 3.75rem;
+    font-weight: 300;
+}
+
+/* BLOG */
+
