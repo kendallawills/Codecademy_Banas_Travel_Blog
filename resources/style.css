@@ -93,11 +93,12 @@ p {
 
 .images {
     margin-bottom: 20%;
+    display: block;
 }
 
 .images .image-container {
     width: 50%;
-    display: inline-block;
+    display: inline;
 }
 
 /* FOOTER */
